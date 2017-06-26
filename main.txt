@@ -2,9 +2,9 @@
 using namespace std;
 
 
-void print()
+int print()
 {
-  
+   cout<<“123”<<endl;
 }
 
 int main()
